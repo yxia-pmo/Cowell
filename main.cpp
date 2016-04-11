@@ -143,7 +143,7 @@ int main()
 
   Period=6.283185307179586476925286766559L/sqrtl(_mu/(_InitialElem[0]*_InitialElem[0]*_InitialElem[0]));
 
-  h=2;
+  h=1;
   Initia(12,h);
 
   max=-1;  cnt=0; pb=0;
